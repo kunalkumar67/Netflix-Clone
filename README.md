@@ -23,3 +23,9 @@ This is a  Netflix Home Page clone project built with HTML and CSS. It replicate
 
    ```bash
    git clone https://github.com/your-username/netflix-clone.git
+
+2. Open the project folder in your preferred code editor.
+3. Open the creation.html.html file in your web browser to view the non-responsive Netflix clone.
+## Technologies Used
+ - HTML
+ - CSS
